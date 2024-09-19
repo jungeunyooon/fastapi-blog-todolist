@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__
+migrations
+alembic.ini
+myapi.db
+.idea
+*.pyc
+.vscode
+env.mysql
